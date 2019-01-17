@@ -10,5 +10,5 @@ package com.mycompany.mavenproject1;
  * @author razumov
  */
 public class Task {
-    
+    /*/dnadn,masnd,mandm*/
 }
